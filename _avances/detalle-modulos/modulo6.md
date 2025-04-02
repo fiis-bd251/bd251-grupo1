@@ -7,6 +7,7 @@
 El objetivo del módulo de Gestión de Inspecciones de Seguridad es identificar, evaluar y mitigar riesgos en las operaciones de Sodexo Perú mediante inspecciones estructuradas. Esto permite garantizar condiciones seguras de trabajo, prevenir incidentes y cumplir con las normativas de seguridad y salud ocupacional (SSO), tanto internas como externas.
 
 El módulo busca asegurar un entorno seguro para los trabajadores, reduciendo la probabilidad de accidentes, mejorando la cultura de seguridad y asegurando la trazabilidad de las acciones correctivas.
+
 ---
 
 ### 2. ¿A quién beneficia el funcionamiento de su módulo?
