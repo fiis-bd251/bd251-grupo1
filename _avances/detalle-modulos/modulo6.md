@@ -114,6 +114,6 @@ Recursos Físicos:
 
 - Se revisa el estado y disponibilidad de los EPP antes de cada inspección.
 
-- Este enfoque garantiza que el módulo funcione de manera eficiente, asegurando la identificación y mitigación de riesgos en Sodexo Perú.
+Este enfoque garantiza que el módulo funcione de manera eficiente, asegurando la identificación y mitigación de riesgos en Sodexo Perú.
 
 
