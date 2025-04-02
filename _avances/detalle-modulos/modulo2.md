@@ -1,27 +1,27 @@
 <h1 align="center">Gestión de Usuarios y Accesos</h1>
 
 
-## **Responsable:** Freddy Cuta
+## **Responsable:** Gavino Geldres
 
 ### 1. ¿Cuál es el objetivo de su módulo?
-Garantizar un acceso seguro y controlado al sistema de Gestión de Seguridad y Salud en el Trabajo (HSE). Este módulo permite registrar usuarios, asignar roles y definir permisos, asegurando que cada perfil tenga acceso solo a las funciones y datos necesarios para su labor. Además, contribuye a la trazabilidad de acciones dentro del sistema y protege la integridad de la información.
+Gestionar y garantizar el cumplimiento del programa anual de capacitaciones obligatorias en seguridad y salud. Facilitando la programación de sesiones, el registro de asistencia, la carga de materiales y la evaluación de conocimientos del personal, asegurando el cumplimiento de normativas legales y contractuales.
 
 ---
 
 ### 2. ¿A quién beneficia el funcionamiento de su módulo?
 - **Área interna**:  
-  Beneficia a los administradores del sistema y al equipo de HSE, ya que facilita la gestión segura de los accesos.
+  Directamente a los encargados de realizar las capacitaciones pues se tendrá una mejor implementación de estas.
 
 - **Usuarios del sistema**:  
-  Trabajadores, supervisores y contratistas, al garantizar que tengan los permisos adecuados según sus funciones.
+  Principalmente los trabajadores pues recibiran las capacitaciones para que cumplan eficientemente sus labores.
 
 - **Empresa**:  
-  Permite cumplir con estándares de seguridad informática y auditoría, reduciendo riesgos de accesos indebidos o manipulación no autorizada de información.
+  Permite reducir el ratio de fallas o pérdidas a causa de una mala capacitación.
 
 ---
 
 ### 3. ¿Qué resultado genera su módulo? ¿Es un producto o un servicio? ¿Qué características tiene?
-El resultado principal es un sistema de gestión de usuarios con roles y permisos definidos, lo que permite administrar el acceso a los demás módulos.
+Una mayor organización y gestión del programa de capacitaciones a los empleados.
 
 **Características del resultado:**
 - Registro y gestión de usuarios.
