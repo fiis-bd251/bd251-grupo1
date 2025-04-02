@@ -1,4 +1,4 @@
-<h1 align="center">Gestión de Usuarios y Accesos</h1>
+<h1 align="center">Gestión de Capacitaciones HSE</h1>
 
 
 ## **Responsable:** Gavino Geldres
