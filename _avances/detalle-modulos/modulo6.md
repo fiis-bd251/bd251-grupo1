@@ -1,4 +1,4 @@
-<h1 align="center">Modullo de Gestión de Inspecciones de Seguridad</h1>
+<h1 align="center">Modulo de Gestión de Inspecciones de Seguridad</h1>
 
 
 ## **Responsable:** Gonzalo Navach Valderrama
