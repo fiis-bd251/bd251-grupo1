@@ -1,7 +1,7 @@
 <hr>
 <div align="center">
  
-[**🔙 Atrás**](../modulo4.md) | [**📜 Índice**](../../README.md) | [**👉 Siguiente**](../modulo7.md)
+[**🔙 Atrás**](/modulo4.md) | [**📜 Índice**](../../README.md) | [**👉 Siguiente**](/modulo7.md)
 
 </div>
 <hr>
