@@ -1,12 +1,3 @@
-<hr>
-<div align="center">
- 
-[**🔙 Atrás**](modulo5.md) | [**📜 Índice**](/README.md) | [**👉 Siguiente**](modulo7.md)
-
-</div>
-<hr>
-
-
 <h1 align="center">Modulo de Gestión de Inspecciones de Seguridad</h1>
 
 
